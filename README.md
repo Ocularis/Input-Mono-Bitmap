@@ -2,8 +2,9 @@
 
 # Work in progress
 
-- Fix a bunch of glyphs. Namely all latin ones and stuff.
-- Fix the damn thunder icon..
+- Fix a bunch of glyphs. Cyrillic and stuff? 
+- Bold version ?
+
 
 Screenshot: Might not be up to date.
 
